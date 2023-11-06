@@ -1,3 +1,5 @@
+#!/bin/sh
+
 FROM python:3
 
 WORKDIR /data
